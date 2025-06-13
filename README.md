@@ -1,6 +1,6 @@
 # About Me
 
-🎓 Graduated with a degree in Theoretical Physics in 2016.
+🎓I graduated with a degree in Theoretical Physics from Zhengzhou University in China in 2016.
 
 💻 Transitioned into frontend development in 2016.
 
@@ -8,5 +8,7 @@
 My experience includes developing IM systems and features for live streaming commercialization such as virtual gifting, red packets, lucky draws, and prize lottery. 
 Our company's app boasts a monthly active user base of approximately 300 million, with around 10 million monthly active users specifically engaging with the live.
 
-🌐 I am now actively learning about Web3 technologies, including Solidity, Uniswap V3, and wallet development,
-with the goal of transitioning into a backend development role within the Web3 space.
+🌐 I am now actively learning about Web3 technologies, including Solidity, Uniswap V3, and wallet development
+
+# Looking For
+I am seeking a remote development role, with a strong preference for opportunities within the Web3 space.
